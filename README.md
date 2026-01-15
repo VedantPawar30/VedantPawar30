@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Pawar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantpawar30&label=Profile%20views&color=0e75b6&style=flat" alt="vedantpawar30" /> </p>
+
 - 🔭 I’m currently working on [StudyNotion - An EdTech Platform](https://github.com/VedantPawar30/StudyNotion)
 
 - 💬 Ask me about **React, Express, C++, Javascript**
